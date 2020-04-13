@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Emoji Memo</string>
+    <string name="emoji_multi_1">
+"""
+⊂_ヽ
+　 ＼＼ Λ＿Λ
+　　 ＼( ‘ㅅ' ) 두둠칫
+　　　 >　⌒ヽ
+　　　/ 　 へ＼
+　　 /　　/　＼＼
+　　 ﾚ　ノ　　 ヽ_つ
+　　/　/두둠칫
+　 /　/|
+　(　(ヽ
+　|　|、＼
+　| 丿 ＼ ⌒)
+　| |　　) /
+`ノ )　　Lﾉ
+"""
+    </string>
+</resources>
